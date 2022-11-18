@@ -7,8 +7,8 @@
 
 
 # Introduction
- Petstore APIs were first designed and developed by [John Smith](#) as a hobby project. He created them on his weekends. One day he decided to make them open source by creating a public [repository](#) on Github. Then he used them to found a startup as they got bigger and bigger. This document will help you integrate the "pet" section of these APIs.
-You can add, remove, and get a pet using these APIs.
+ Petstore APIs were designed and developed by [John Smith](#) as a hobby project. He created them on his weekends. One day he decided to make them open source by creating a public [repository](#) on Github. Then he used them to start a small business as they grew. This document covers the integration process required to use these APIs' "pet" section.
+You can add, remove, update, and retrieve pet data using these APIs.
 
 # API integration process
 Take a look at this [petstore.swagger.io](https://petstore.swagger.io) to start integrating these APIs. It gives you a lot of information at a glance. You can even test every API by clicking on "Try it out" button.
